@@ -1,0 +1,25 @@
+{
+  "name": "fundot-partial",
+  "description": "Functional partial applications",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chapel/fundot-partial.git"
+  },
+  "homepage": "https://github.com/chapel/fundot-partial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "fundot-utils": "0.0.x"
+  },
+  "devDependencies": {
+    "mocha": "~1.7.4"
+  },
+  "author": {
+    "name": "Jacob Chapel",
+    "email": "jacob.chapel@gmail.com"
+  },
+  "license": "MIT"
+}
